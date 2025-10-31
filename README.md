@@ -1,6 +1,6 @@
 # TicketBuddy RAG Pipeline
 
-An end-to-end Retrieval-Augmented Generation (RAG) system that understands IT issue queries from `Assignment_docs/user_queries.xlsx`, retrieves relevant context from past ticket data and knowledge base text files, and generates structured, evidence-backed JSON responses.
+An end-to-end Retrieval-Augmented Generation (RAG) system that understands IT issue queries, retrieves relevant context from past ticket data and knowledge base text files, and generates structured, evidence-backed JSON responses.
 
 ## Data Sources
 - `Assignment_docs/IT_tickets_data.xlsx` — columns: `ticket_id`, `title`, `description`, `root_cause`, `resolution`
