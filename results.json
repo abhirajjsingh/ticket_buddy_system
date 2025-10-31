@@ -1,0 +1,206 @@
+[
+  {
+    "query": "i keep seeing vpn error 720 whenever i try to connect from home. sometimes it connects, sometimes it doesn’t. how can i troubleshoot this",
+    "answer": {
+      "root_causes": [
+        "No exact historical match found; inferred likely causes based on similar issues."
+      ],
+      "resolution_steps": [
+        "Verify connectivity and credentials.",
+        "Check logs for specific error codes.",
+        "Apply the closest known fix from related tickets or KB."
+      ],
+      "sources": [
+        {
+          "doc_name": "vpn_troubleshooting.txt"
+        },
+        {
+          "ticket_id": "195"
+        },
+        {
+          "ticket_id": "101"
+        },
+        {
+          "doc_name": "wifi_network_issues.txt"
+        },
+        {
+          "doc_name": "printer_network_issues.txt"
+        },
+        {
+          "ticket_id": "117"
+        },
+        {
+          "doc_name": "laptop_hardware_issues.txt"
+        },
+        {
+          "ticket_id": "175"
+        },
+        {
+          "ticket_id": "197"
+        }
+      ]
+    }
+  },
+  {
+    "query": "outlook search is taking a very long time, and some emails are not appearing when i search. what steps should i take to fix this?",
+    "answer": {
+      "root_causes": [
+        "No exact historical match found; inferred likely causes based on similar issues."
+      ],
+      "resolution_steps": [
+        "Verify connectivity and credentials.",
+        "Check logs for specific error codes.",
+        "Apply the closest known fix from related tickets or KB."
+      ],
+      "sources": [
+        {
+          "ticket_id": "156"
+        },
+        {
+          "doc_name": "email_outlook_troubleshooting.txt"
+        },
+        {
+          "ticket_id": "150"
+        },
+        {
+          "ticket_id": "182"
+        },
+        {
+          "ticket_id": "123"
+        },
+        {
+          "doc_name": "printer_network_issues.txt"
+        },
+        {
+          "doc_name": "laptop_hardware_issues.txt"
+        },
+        {
+          "doc_name": "software_installation_issues.txt"
+        }
+      ]
+    }
+  },
+  {
+    "query": "my laptop freezes randomly, and remote desktop sessions drop intermittently when i try to connect to the server. could this be a hardware or network issue?",
+    "answer": {
+      "root_causes": [
+        "No exact historical match found; inferred likely causes based on similar issues."
+      ],
+      "resolution_steps": [
+        "Verify connectivity and credentials.",
+        "Check logs for specific error codes.",
+        "Apply the closest known fix from related tickets or KB."
+      ],
+      "sources": [
+        {
+          "ticket_id": "159"
+        },
+        {
+          "ticket_id": "174"
+        },
+        {
+          "ticket_id": "125"
+        },
+        {
+          "doc_name": "remote_desktop_issues.txt"
+        },
+        {
+          "ticket_id": "185"
+        },
+        {
+          "doc_name": "vpn_troubleshooting.txt"
+        },
+        {
+          "doc_name": "wifi_network_issues.txt"
+        },
+        {
+          "doc_name": "network_and_server_issues.txt"
+        },
+        {
+          "ticket_id": "158"
+        }
+      ]
+    }
+  },
+  {
+    "query": "i’m trying to open our internal ai dashboard, but it just shows a ‘service unavailable’ error. i don’t know what’s wrong or where to find help. can you tell me what i should do?",
+    "answer": {
+      "root_causes": [
+        "No exact historical match found; inferred likely causes based on similar issues."
+      ],
+      "resolution_steps": [
+        "Verify connectivity and credentials.",
+        "Check logs for specific error codes.",
+        "Apply the closest known fix from related tickets or KB."
+      ],
+      "sources": [
+        {
+          "ticket_id": "114"
+        },
+        {
+          "ticket_id": "153"
+        },
+        {
+          "ticket_id": "141"
+        },
+        {
+          "doc_name": "software_installation_issues.txt"
+        },
+        {
+          "doc_name": "access_permission_issues.txt"
+        },
+        {
+          "doc_name": "deployment_build_issues.txt"
+        },
+        {
+          "doc_name": "wifi_network_issues.txt"
+        },
+        {
+          "ticket_id": "125"
+        }
+      ]
+    }
+  },
+  {
+    "query": "i cannot push to gitlab, and at the same time i am getting ‘access denied’ errors on sharepoint project folders, even though my credentials are correct. how should i resolve this?”",
+    "answer": {
+      "root_causes": [
+        "No exact historical match found; inferred likely causes based on similar issues."
+      ],
+      "resolution_steps": [
+        "Verify connectivity and credentials.",
+        "Check logs for specific error codes.",
+        "Apply the closest known fix from related tickets or KB."
+      ],
+      "sources": [
+        {
+          "ticket_id": "186"
+        },
+        {
+          "ticket_id": "137"
+        },
+        {
+          "ticket_id": "162"
+        },
+        {
+          "doc_name": "access_permission_issues.txt"
+        },
+        {
+          "ticket_id": "124"
+        },
+        {
+          "ticket_id": "129"
+        },
+        {
+          "ticket_id": "125"
+        },
+        {
+          "ticket_id": "103"
+        },
+        {
+          "ticket_id": "138"
+        }
+      ]
+    }
+  }
+]
