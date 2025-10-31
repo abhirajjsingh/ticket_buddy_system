@@ -43,6 +43,21 @@ python ticketbuddy_rag_pipeline.py
 
 This will create `results.json` at the project root with structured outputs for all user queries.
 
+## Interactive UI -- TRY THIS WAY 
+
+You can explore TicketBuddy interactively with Streamlit app.
+
+# Launch the UI
+streamlit run app.py
+```
+
+In the UI:
+- First setup OPENAI_API_KEY over left-side pane.
+- Enter your issue in the text box and click "Get Answer".
+- View the proposed root causes and resolution steps.
+- Inspect the top evidence chunks and their sources.
+- Toggle "Show raw JSON output" to view the exact response structure.
+
 ## Configuration
 Environment variables to tweak models:
 - `TICKETBUDDY_EMBEDDINGS` (default: `BAAI/bge-small-en-v1.5`)
