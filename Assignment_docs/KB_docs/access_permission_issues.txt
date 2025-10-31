@@ -1,0 +1,23 @@
+Access & Permission Troubleshooting Guide
+
+Common Issues:
+- Denied access to internal apps, SharePoint, or databases
+- Missing group permissions
+- Inability to edit or modify resources
+
+Possible Causes:
+- User not assigned to correct roles or groups
+- Changes in policy or permission inheritance
+- Expired credentials or revoked access
+- Misconfigured IAM/AD settings
+
+Resolution Steps:
+1. Verify user role and group memberships.
+2. Grant required permissions in AD, IAM, or application settings.
+3. Check policy inheritance and adjust if needed.
+4. Re-authenticate user and refresh tokens.
+5. Test access and confirm resolution.
+
+Tips:
+- Maintain an access audit log for accountability.
+- Periodically review role assignments and permissions.

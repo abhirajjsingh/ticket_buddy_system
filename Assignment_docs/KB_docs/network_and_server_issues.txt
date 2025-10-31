@@ -1,0 +1,25 @@
+Network & Server Troubleshooting Guide
+
+Common Issues:
+- Slow file transfer speeds
+- DNS or IP resolution failures
+- Firewall or server connection errors
+- High server load affecting performance
+
+Possible Causes:
+- Network congestion or misconfiguration
+- DNS or routing errors
+- Firewall blocking required ports
+- Resource exhaustion on server
+
+Resolution Steps:
+1. Check network connectivity and monitor bandwidth usage.
+2. Verify DNS and IP configuration.
+3. Adjust firewall settings to allow required traffic.
+4. Restart server services if necessary.
+5. Test file transfers and server connections.
+6. Optimize server performance and balance load if needed.
+
+Tips:
+- Maintain network topology documentation.
+- Monitor servers regularly for performance metrics.

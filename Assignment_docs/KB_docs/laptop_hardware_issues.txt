@@ -1,0 +1,25 @@
+Laptop Hardware Troubleshooting Guide
+
+Common Issues:
+- Battery not charging or draining quickly
+- Overheating and unexpected shutdowns
+- Touchpad, keyboard, or camera not working
+- Screen flickering or display issues
+
+Possible Causes:
+- Faulty hardware components (charger, battery)
+- Outdated or corrupt drivers
+- Dust accumulation causing overheating
+- Misconfigured display settings
+
+Resolution Steps:
+1. Verify battery and charger functionality.
+2. Update or reinstall device drivers.
+3. Clean vents and internal fans to prevent overheating.
+4. Adjust display settings and check refresh rate.
+5. Test touchpad, keyboard, and camera functionality.
+6. Replace faulty hardware if issues persist.
+
+Tips:
+- Schedule regular hardware maintenance.
+- Keep system drivers up to date.

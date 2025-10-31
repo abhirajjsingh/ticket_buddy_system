@@ -1,0 +1,24 @@
+Remote Desktop Troubleshooting Guide
+
+Common Issues:
+- Black screen on RDP login
+- Session disconnects intermittently
+- Slow or laggy remote sessions
+
+Possible Causes:
+- Network latency or unstable connection
+- Display driver issues
+- Timeout or session limits on server
+- Misconfigured RDP client settings
+
+Resolution Steps:
+1. Check network connection and latency.
+2. Update display drivers on client machine.
+3. Adjust RDP client settings for performance.
+4. Increase session timeout settings on server if needed.
+5. Test RDP connection from another client device.
+6. Restart server if persistent session issues occur.
+
+Tips:
+- Use wired connection for high stability.
+- Document server and client configurations for troubleshooting.

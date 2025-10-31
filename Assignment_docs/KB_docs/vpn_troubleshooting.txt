@@ -1,0 +1,26 @@
+VPN Troubleshooting Guide
+
+Common Issues:
+- Cannot connect to VPN
+- Frequent disconnections
+- Error codes 619, 720, timeout messages
+
+Possible Causes:
+- Expired VPN certificates
+- Corrupted VPN profile
+- Conflicting VPN client installations
+- Firewall or port blocking
+- Idle timeout settings
+
+Resolution Steps:
+1. Verify VPN credentials and server address.
+2. Check certificate validity and renew if expired.
+3. Delete and recreate VPN profile.
+4. Uninstall conflicting VPN clients and reinstall the latest version.
+5. Adjust firewall or port settings to allow VPN traffic.
+6. Modify idle timeout settings if frequent disconnects occur.
+7. Test connection from another device to isolate client-specific issues.
+
+Tips:
+- Always use the latest VPN client version.
+- Document VPN profile changes for troubleshooting.

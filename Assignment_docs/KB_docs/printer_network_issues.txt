@@ -1,0 +1,26 @@
+Printer & Network Troubleshooting Guide
+
+Common Issues:
+- Printer offline or not detected
+- Blank pages or partial prints
+- Jobs stuck in queue
+
+Possible Causes:
+- Printer spooler service stopped
+- Incorrect IP or network settings
+- Low toner or paper jams
+- Outdated printer driver
+- Network connectivity issues
+
+Resolution Steps:
+1. Restart printer and clear print queue.
+2. Verify network configuration and IP address.
+3. Update printer drivers to latest version.
+4. Replace toner/cartridge if low or faulty.
+5. Restart printer spooler service.
+6. Test printing from another device to isolate issue.
+7. Check firewall or network rules blocking printer traffic.
+
+Tips:
+- Maintain logs of recurring printer errors.
+- Keep spare cartridges and paper to reduce downtime.

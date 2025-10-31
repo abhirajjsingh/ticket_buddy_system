@@ -1,0 +1,27 @@
+Outlook & Email Troubleshooting Guide
+
+Common Issues:
+- Emails not syncing or sending
+- PST/OST corruption
+- Calendar or contacts not updating
+- Rules and signature not applied
+
+Possible Causes:
+- Corrupted PST/OST files
+- Cached credentials not updated
+- Misconfigured mailbox rules
+- Disabled Exchange ActiveSync
+- Incorrect Outlook profile settings
+
+Resolution Steps:
+1. Rebuild OST/PST files if corrupted.
+2. Clear cached credentials and reauthenticate account.
+3. Recreate email rules and check signature settings.
+4. Verify ActiveSync settings on mobile devices.
+5. Recreate Outlook profile if issues persist.
+6. Update Outlook client to latest version.
+7. Test sending and receiving emails with another account.
+
+Tips:
+- Archive old emails to reduce mailbox size.
+- Regularly back up PST files to avoid data loss.

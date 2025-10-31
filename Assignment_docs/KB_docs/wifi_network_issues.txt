@@ -1,0 +1,27 @@
+WiFi & Network Troubleshooting Guide
+
+Common Issues:
+- Intermittent connectivity
+- Slow WiFi speeds
+- Cannot connect to network
+- IP conflicts
+
+Possible Causes:
+- Outdated or missing network drivers
+- Interference from nearby devices
+- Router misconfiguration
+- IP address conflicts or DHCP issues
+- Power saving settings on device
+
+Resolution Steps:
+1. Update WiFi/network drivers to the latest version.
+2. Reboot router and client device.
+3. Check and configure correct SSID and password.
+4. Assign a static IP if DHCP conflicts occur.
+5. Adjust WiFi channel to reduce interference.
+6. Disable power saving settings that may disable WiFi adapter.
+7. Test connection using a wired network if possible.
+
+Tips:
+- Keep a list of frequently used WiFi networks and their passwords.
+- Regularly monitor network speed and congestion.
